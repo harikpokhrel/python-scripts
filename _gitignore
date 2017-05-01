@@ -1,0 +1,11 @@
+*.pyc
+.*.swp
+*.log
+*~
+.pypirc
+dist
+*.egg-info
+.sublime
+.idea
+.eggs
+build/
